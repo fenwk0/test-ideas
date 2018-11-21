@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# see https://gist.github.com/adamjohnson/5682757
 echo "# test-ideas" >> README.md
 #git init
 git add README.md
